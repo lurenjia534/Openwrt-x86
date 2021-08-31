@@ -4,7 +4,7 @@
 
 **[GitHub云编译库](https://github.com/P3TERX/Actions-OpenWrt)**  
 
-**[GitHub lede大佬源码](https://github.com/coolsnowwolf/lede)**  
+**[GitHub Lienol大佬源码](https://github.com/Lienol/openwrt/tree/19.07)**  
 
 **[加入第三方库的支持-个人blog](https://mianao.info/2020/05/05/%E7%BC%96%E8%AF%91%E6%9B%B4%E6%96%B0OpenWrt-PassWall%E5%92%8CSSR-plus%E6%8F%92%E4%BB%B6)**  
 
