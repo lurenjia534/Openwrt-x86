@@ -1,6 +1,6 @@
 ## 针对于X86设备的编译
 ### 使用并且参考以下轮子
-### 此版本为稳定版本 基于 [GitHub Lean大佬源码](https://github.com/coolsnowwolf/lede) 源码编译 采用Ubuntu20.04LTS X64作为容器编译 由于源码更新较为频繁 可能存在一定的阶段性BUG 稳定用户请使用本项目分支19.07版本
+### 此版本为最新版本 基于 [GitHub Lean大佬源码](https://github.com/coolsnowwolf/lede) 源码编译 采用Ubuntu20.04LTS X64作为容器编译 由于源码更新较为频繁 可能存在一定的阶段性BUG 稳定用户请使用本项目分支19.07版本
 **[GitHub云编译教程](https://p3terx.com/archives/build-openwrt-with-github-actions.html)**  
 
 **[GitHub云编译库](https://github.com/P3TERX/Actions-OpenWrt)**  
