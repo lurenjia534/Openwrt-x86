@@ -1,6 +1,6 @@
 ## 针对于X86设备的编译
 ### 使用并且参考以下轮子
-### 此版本为稳定版本 基于**[GitHub Lienol大佬源码](https://github.com/Lienol/openwrt/tree/19.07)**19.07稳定分支源码编译 采用Ubuntu18.04LTS X64作为容器编译
+### 此版本为稳定版本 基于 [GitHub Lienol大佬源码](https://github.com/Lienol/openwrt/tree/19.07) 19.07稳定分支源码编译 采用Ubuntu18.04LTS X64作为容器编译
 **[GitHub云编译教程](https://p3terx.com/archives/build-openwrt-with-github-actions.html)**  
 
 **[GitHub云编译库](https://github.com/P3TERX/Actions-OpenWrt)**  
