@@ -14,3 +14,5 @@
 **[固件大小修改-恩山](https://www.right.com.cn/FORUM/thread-3695541-1-1.html)**  
 
 **[lede插件翻译-恩山](https://www.right.com.cn/forum/thread-344825-1-1.html)**
+<div class="github-card" data-github="lurenjia534" data-width="400" data-height="" data-theme="medium"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
